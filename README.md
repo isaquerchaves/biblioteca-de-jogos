@@ -1,6 +1,6 @@
 # Lista de Jogos
 
-Esta é uma aplicação React que exibe uma lista de jogos com informações, incluindo capas de jogos, títulos, anos de lançamento e descrições. A lista de jogos é definida em uma matriz chamada `games`, que é mapeada e renderizada na página.
+Esta é uma aplicação React que exibe uma lista de jogos com informações, incluindo capas de jogos, títulos e descrições. A lista de jogos é definida em uma matriz chamada `games`, que é mapeada e renderizada na página.
 
 ## Pré-requisitos
 
